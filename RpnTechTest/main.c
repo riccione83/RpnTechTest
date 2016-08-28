@@ -24,6 +24,8 @@
 #define RCVBUFSIZE 1024     /* Size of receive buffer */
 #define TXBUFSIZE 1024      /* Size of receive buffer */
 
+
+
 #define TCP_PORT 1234
 
 int rpn_error;
